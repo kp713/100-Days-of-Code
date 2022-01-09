@@ -2,7 +2,7 @@
 
 I've fairly good knowledge of programming in python and Data Science. Through the next hundred days I want to brush up my Python skills, DBMS skills, and also my stats and ML all hands on by coding in Python. This is my Journey. I've decided to start from the basics, and I understand if the challenge very well goes over a 100 days because of all the things I want to learn. This is my journey, starting from Day 1.
 
-Day 1 : 8th Jan 2022
+# Day 1 : 8th Jan 2022
 
 Starting my HDOC today
 Solved for :
@@ -19,7 +19,7 @@ For example, if N is 4, then there are 5 unique ways:
 What if, instead of being able to climb 1 or 2 steps at a time, you could climb any number from a set of positive integers X? For example, if X = {1, 3, 5}, you could climb 1, 3, or 5 steps at a time. Generalize your function to take in X.
 
 
-Day 2 :  9th Jan 2022
+# Day 2 :  9th Jan 2022
 
 Solved for :
 
