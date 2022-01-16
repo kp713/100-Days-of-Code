@@ -98,3 +98,35 @@ So, the final decoded script is:
 This is Matrix#  %!
 
 I was able to solve for this 
+
+# Day 5 : 12th Jan 2022
+
+Problem :
+Link to problem on Hackerrank : https://www.hackerrank.com/challenges/py-if-else/problem?isFullScreen=true
+
+Task Given an integer,n , perform the following conditional actions:
+
+If n is odd, print Weird If n is even and in the inclusive range of 2 to 5, print Not Weird If n is even and in the inclusive range of 6 to 20, print Weird If n is even and greater than 20, print Not Weird Input Format
+
+A single line containing a positive integer, .
+
+Constraints 1 <= n < =100 Output Format
+
+Print Weird if the number is weird. Otherwise, print Not Weird.
+
+Sample Input 0
+
+# Day 6 : 13th Jan 2022
+
+Write a Python program find a list of integers with exactly two occurrences of nineteen and at least three occurrences of five. 
+
+# Day 7 : 14th Jan 2022
+Write a Python program that accept a list of integers and check the length and the fifth element. Return true if the length of the list is 8 and fifth element occurs thrice in the said list.
+
+
+# Day 8 : 15th Jan 2022
+We are making n stone piles! The first pile has n stones. If n is even, then all piles have an even number of stones. If n is odd, all piles have an odd number of stones. Each pile must more stones than the previous pile but as few as possible. Write a Python program to find the number of stones in each pile. 
+# Day 9 : 16th Jan 2022
+Write a Python program to check the nth-1 string is a proper substring of nth string in a given list of strings.
+
+
