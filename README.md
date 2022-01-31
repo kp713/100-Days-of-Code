@@ -136,9 +136,10 @@ The problem is from Hackerrank found here : https://www.hackerrank.com/challenge
 Julia conducted a 15 days of learning SQL contest. The start date of the contest was March 01, 2016 and the end date was March 15, 2016.
 
 Write a query to print total number of unique hackers who made at least  submission each day (starting on the first day of the contest), and find the hacker_id and name of the hacker who made maximum number of submissions each day. If more than one such hacker has a maximum number of submissions, print the lowest hacker_id. The query should print this information for each day of the contest, sorted by the date.
+To refer to the schema, please visit the link.
 
 ---------
-To refer to the schema, please visit the link.I couldn't document anything for 2 whole weeks because I was actively coding in my job. I used K-means clustering and whole lot of other things in my job the past 2 weeks which I unfortunately cannot document here. SO for those reasons I've decided to document Day 11 from the 30th of January, I'll try to log each day, but will log only on days I have time to code outside of work.
+I couldn't document anything for 2 whole weeks because I was actively coding in my job. I used K-means clustering and whole lot of other things in my job the past 2 weeks which I unfortunately cannot document here. SO for those reasons I've decided to document Day 11 from the 30th of January, I'll try to log each day, but will log only on days I have time to code outside of work.
 ---------
 
 # Day 11 : 30th Jan 2022
